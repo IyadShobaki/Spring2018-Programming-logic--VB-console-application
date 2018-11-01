@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\bin\Debug\test8.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\obj\Debug\test8.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\obj\Debug\test8.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\bin\Debug\test8.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\bin\Debug\test8.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\bin\Debug\test8.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\obj\Debug\test8.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\obj\Debug\test8.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test8\test8\obj\Debug\test8.pdb

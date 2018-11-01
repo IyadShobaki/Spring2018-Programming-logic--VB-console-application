@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\obj\Debug\Numbers.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\obj\Debug\Numbers.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\bin\Debug\Numbers.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\obj\Debug\Numbers.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Numbers\Numbers\obj\Debug\Numbers.pdb

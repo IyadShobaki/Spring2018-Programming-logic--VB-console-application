@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\bin\Debug\cities.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\bin\Debug\cities.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\bin\Debug\cities.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\bin\Debug\cities.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\obj\Debug\cities.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\obj\Debug\cities.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\obj\Debug\cities.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\obj\Debug\cities.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\cities\cities\obj\Debug\cities.pdb

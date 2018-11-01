@@ -1,0 +1,13 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\bin\Debug\ExampleOfUsingAClass.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\bin\Debug\ExampleOfUsingAClass.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\bin\Debug\ExampleOfUsingAClass.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\bin\Debug\ExampleOfUsingAClass.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.pdb
+\\Client\F$\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\bin\Debug\ExampleOfUsingAClass.exe.config
+\\Client\F$\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.exe
+\\Client\F$\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.xml
+\\Client\F$\Spring2018,StarkState\visual studio 2012\Projects\ExampleOfUsingAClass\ExampleOfUsingAClass\obj\Debug\ExampleOfUsingAClass.pdb

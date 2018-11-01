@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

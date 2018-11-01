@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\bin\Debug\test5-7.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\bin\Debug\test5-7.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\bin\Debug\test5-7.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\bin\Debug\test5-7.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\obj\Debug\test5_7.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\obj\Debug\test5-7.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\obj\Debug\test5-7.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\obj\Debug\test5-7.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\test5-7\test5-7\obj\Debug\test5-7.pdb

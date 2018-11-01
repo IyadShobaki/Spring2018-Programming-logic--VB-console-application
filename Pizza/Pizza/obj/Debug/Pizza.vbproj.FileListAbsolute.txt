@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\bin\Debug\Pizza.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Pizza\Pizza\obj\Debug\Pizza.pdb

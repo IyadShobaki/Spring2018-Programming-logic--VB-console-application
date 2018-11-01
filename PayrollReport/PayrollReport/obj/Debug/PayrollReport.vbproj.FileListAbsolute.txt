@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\bin\Debug\PayrollReport.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\bin\Debug\PayrollReport.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\bin\Debug\PayrollReport.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\bin\Debug\PayrollReport.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\obj\Debug\PayrollReport.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\obj\Debug\PayrollReport.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\obj\Debug\PayrollReport.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\obj\Debug\PayrollReport.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\PayrollReport\PayrollReport\obj\Debug\PayrollReport.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BattingAverage", "BattingAverage\BattingAverage.vbproj", "{632E4A89-181E-402C-837B-6C5992A096AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632E4A89-181E-402C-837B-6C5992A096AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632E4A89-181E-402C-837B-6C5992A096AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632E4A89-181E-402C-837B-6C5992A096AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632E4A89-181E-402C-837B-6C5992A096AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

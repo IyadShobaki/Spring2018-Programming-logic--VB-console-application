@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\bin\Debug\Furniture.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\obj\Debug\Furniture.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\obj\Debug\Furniture.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\bin\Debug\Furniture.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\bin\Debug\Furniture.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\bin\Debug\Furniture.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\obj\Debug\Furniture.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\obj\Debug\Furniture.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\Furniture\Furniture\obj\Debug\Furniture.pdb

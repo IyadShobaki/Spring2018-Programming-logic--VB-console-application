@@ -1,0 +1,9 @@
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe.config
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\obj\Debug\BattingAverage.Resources.resources
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\obj\Debug\BattingAverage.vbproj.GenerateResource.Cache
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\bin\Debug\BattingAverage.pdb
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\bin\Debug\BattingAverage.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\obj\Debug\BattingAverage.exe
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\obj\Debug\BattingAverage.xml
+C:\Users\iyad\Desktop\Spring2018,StarkState\visual studio 2012\Projects\BattingAverage\BattingAverage\obj\Debug\BattingAverage.pdb
